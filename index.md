@@ -1,4 +1,4 @@
-## Welcome to my website
+## Henry's First CS 193 Homework
 This is my website.
 
 Thank yu for visiting my website.
@@ -14,8 +14,15 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
+# things i like about this class
 - Bulleted
 - List
+- computer
+- chill
+- github
+- coding
+- computer
+- the tas
 
 1. web
 2. site
