@@ -1,11 +1,10 @@
 ## Henry's First CS 193 Homework
 This is my website.
 
-Thank yu for visiting my website.
+Thank you for visiting my website.
 
-### Markdown
+### Website
 
-Markdown is a lightweight and easy-to-use syntax for styling yossssssnjndkjdsur writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
@@ -34,9 +33,9 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### I hope you enjoyed my website
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Webbbbbsiteeeeee
 
 ### Support or Contact
 
